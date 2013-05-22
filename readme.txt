@@ -13,7 +13,7 @@ A Debian menu for your website, simple to install and setup, shows Debian networ
 
 Debian sidebar is made to promote Debian.
 
-Parts of code from [Social sidebar](http://wordpress.org/extend/plugins/social-sidebar) and logo from [Ubuntu pictogram](http://design.ubuntu.com/assets/pictograms) are used for make Debian sidebar.
+Parts of code from [Social sidebar](http://wordpress.org/plugins/social-sidebar) and logo from [Ubuntu pictogram](http://design.ubuntu.com/assets/pictograms) are used for make Debian sidebar.
 
 Plugin add Debian media buttons to the right side of your website with style and ease.
 
@@ -24,11 +24,12 @@ How Debian sidebar looks see at [ZPop](http://zpop.site90.net/blog/debian-sideba
 On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/debian-sidebar-wordpress-plugin) blog plugin page.
 
 My other plugins:
-* [Debian ribbon](http://wordpress.org/extend/plugins/debian-ribbon/)
-* [Debian sidebar lite](http://wordpress.org/extend/plugins/debian-sidebar-lite/)
-* [Ubuntu ribbon](http://wordpress.org/extend/plugins/ubuntu-ribbon/)
-* [Ubuntu sidebar](http://wordpress.org/extend/plugins/ubuntu-sidebar/)
-* [Ubuntu sidebar lite](http://wordpress.org/extend/plugins/ubuntu-sidebar-lite/)
+
+* [Debian ribbon](http://wordpress.org/plugins/debian-ribbon/)
+* [Debian sidebar lite](http://wordpress.org/plugins/debian-sidebar-lite/)
+* [Ubuntu ribbon](http://wordpress.org/plugins/ubuntu-ribbon/)
+* [Ubuntu sidebar](http://wordpress.org/plugins/ubuntu-sidebar/)
+* [Ubuntu sidebar lite](http://wordpress.org/plugins/ubuntu-sidebar-lite/)
 
 == Installation ==
 
