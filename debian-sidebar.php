@@ -5,14 +5,14 @@
  */
 /*
 Plugin Name: Debian Sidebar
-Plugin URI: http://wordpress.org/extend/plugins/debian-sidebar
+Plugin URI: http://wordpress.org/plugins/debian-sidebar
 Description: Add Debian media buttons to the right side of your website with style and ease.
-Author: Zeljko Popivoda
+Author: Željko Popivoda
 Version: 0.1
 License: GPLv2
-Author URI: http://zeljko.popivoda.com
+Author URI: http://popivoda.com
 */
-/*  Copyright 2012  Zeljko Popivoda  (email : zh.popivoda@gmail.com)
+/*  Copyright 2012  Željko Popivoda http://popivoda.com
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 

@@ -1,8 +1,8 @@
 /**
- * @author Zeljko Popivoda.
+ * @author Željko Popivoda http://popivoda.com
  *
  * Version 0.1
- * Copyright (c) 2013	 Zeljko Popivoda
+ * Copyright (c) 2013 Željko Popivoda
  *
  * License:
  * https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
