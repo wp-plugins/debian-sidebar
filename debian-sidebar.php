@@ -12,7 +12,7 @@ Version: 0.1
 License: GPLv2
 Author URI: http://popivoda.com
 */
-/*  Copyright 2012  Zeljko Popivoda http://popivoda.com
+/*  Copyright 2012  Željko Popivoda  http://popivoda.com
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
