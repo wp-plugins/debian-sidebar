@@ -121,13 +121,13 @@ jQuery(document).ready(function($){
 	<b>Debian sidebar Documentation</b>
 	<ul>
 	<li><a href="http://zeljko.popivoda.com/debian-sidebar-wordpress-plugin" target="_blank">Debian sidebar - Zeljko Popivoda blog</a></li>
-	<li><a href="http://wordpress.org/extend/plugins/debian-sidebar" target="_blank">Debian sidebar - Wordpress plugins</a></li>
+	<li><a href="http://wordpress.org/plugins/debian-sidebar" target="_blank">Debian sidebar - Wordpress plugins</a></li>
 	</ul>
 	<br />
 	<br />
 	<b>Documentation of Social sidebar</b>
 	<ul>
-	<li><a href="http://wordpress.org/extend/plugins/social-sidebar" target="_blank">Social sidebar - Wordpress plugin homepage</a></li>
+	<li><a href="http://wordpress.org/plugins/social-sidebar" target="_blank">Social sidebar - Wordpress plugin homepage</a></li>
 	<li><a href="http://github.com/thomasdavis/Wordpress-Social-Sidebar" target="_blank">Social sidebar - GitHub Repository</a></li>
 	</ul>
 </div>
