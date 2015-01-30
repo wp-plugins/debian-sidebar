@@ -28,6 +28,8 @@ My other plugins:
 * [Ubuntu ribbon](http://wordpress.org/plugins/ubuntu-ribbon/)
 * [Ubuntu sidebar](http://wordpress.org/plugins/ubuntu-sidebar/)
 * [Ubuntu sidebar lite](http://wordpress.org/plugins/ubuntu-sidebar-lite/)
+* [Lubuntu ribbon](http://wordpress.org/plugins/lubuntu-ribbon/)
+* [Lubuntu sidebar lite](http://wordpress.org/plugins/lubuntu-sidebar-lite/)
 
 == Installation ==
 
